@@ -1,2 +1,3 @@
 # abdullah
-my first repository
+my first repository.
+Author - Abdullah Mohammed
